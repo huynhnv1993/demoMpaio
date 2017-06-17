@@ -1,0 +1,1 @@
+include ':app', ':media v1.0.2-release', ':mpaio_ext_dialogs v1.2.3-release', ':mpaio_sdk v2.3.1-release', ':util v1.2.1-release'
